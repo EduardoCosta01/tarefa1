@@ -1,0 +1,30 @@
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\appsettings.Development.json
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\appsettings.json
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\Tarefas API.exe
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\Tarefas API.deps.json
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\Tarefas API.runtimeconfig.json
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\Tarefas API.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\Tarefas API.pdb
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\Dapper.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\Dapper.Contrib.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\Tarefas API.csproj.AssemblyReference.cache
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\Tarefas API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\Tarefas API.AssemblyInfoInputs.cache
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\Tarefas API.AssemblyInfo.cs
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\Tarefas API.csproj.CoreCompileInputs.cache
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\Tarefas API.MvcApplicationPartsAssemblyInfo.cache
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\scopedcss\bundle\Tarefas API.styles.css
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\Tarefas API.csproj.CopyComplete
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\Tarefas API.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\refint\Tarefas API.dll
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\Tarefas API.pdb
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\Tarefas API.genruntimeconfig.cache
+D:\Desenv de Sistema\ASP.NET MVC C#\4 - Mininal API\Tarefas API\Tarefas API\obj\Debug\net6.0\ref\Tarefas API.dll
